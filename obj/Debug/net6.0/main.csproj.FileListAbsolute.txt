@@ -1,0 +1,15 @@
+/home/runner/GlobalFinancas/bin/Debug/net6.0/main
+/home/runner/GlobalFinancas/bin/Debug/net6.0/main.deps.json
+/home/runner/GlobalFinancas/bin/Debug/net6.0/main.runtimeconfig.json
+/home/runner/GlobalFinancas/bin/Debug/net6.0/main.dll
+/home/runner/GlobalFinancas/bin/Debug/net6.0/main.pdb
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.csproj.AssemblyReference.cache
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.AssemblyInfoInputs.cache
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.AssemblyInfo.cs
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.dll
+/home/runner/GlobalFinancas/obj/Debug/net6.0/refint/main.dll
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.pdb
+/home/runner/GlobalFinancas/obj/Debug/net6.0/main.genruntimeconfig.cache
+/home/runner/GlobalFinancas/obj/Debug/net6.0/ref/main.dll
